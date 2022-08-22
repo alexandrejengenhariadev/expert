@@ -1,0 +1,4 @@
+# ExpertsAtivos
+# Estrategias
+# BotsUtilizados
+# expert
